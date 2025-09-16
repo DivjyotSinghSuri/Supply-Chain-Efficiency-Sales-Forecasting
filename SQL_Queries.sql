@@ -65,6 +65,18 @@
 -- LIMIT 10;
 
 -- 7. Which products have the highest and lowest return rates?
+-- Highest Returns
+-- SELECT product_name, ROUND(AVG(order_profit_per_order),2) AS Average_Profit
+-- FROM `dataco-supply-chain-471606.2.datatable`
+-- GROUP BY product_name
+-- ORDER BY Average_Profit DESC
+-- LIMIT 7;
 
+-- Lowest Returns
+SELECT product_name, ROUND(AVG(order_profit_per_order),2) AS Average_Profit
+FROM `dataco-supply-chain-471606.2.datatable`
+GROUP BY product_name
+ORDER BY Average_Profit 
+LIMIT 7;
 
-
+-- 8. Which products have the longest delivery times?
