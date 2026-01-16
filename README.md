@@ -61,8 +61,7 @@ This dashboard focuses on operational efficiency and delivery execution.
 - Fulfilled orders count
 - Delay patterns by shipping mode
 
-📌 **Placeholder**  
-_Add Shipping Reliability & Delivery Performance dashboard screenshot here_
+![Shipping Dashboard](ShippingDashboard.png)
 
 ---
 
@@ -75,8 +74,7 @@ This dashboard focuses on revenue trends, geographic performance, and growth opp
 - Global sales concentration by country
 - Identification of low-volume, high-margin countries
 
-📌 **Placeholder**  
-_Add Sales Performance & Market Insights dashboard screenshot here_
+![Sales Dashboard](SalesDashboard.png)
 
 ---
 
