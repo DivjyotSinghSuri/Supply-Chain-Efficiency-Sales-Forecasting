@@ -5,6 +5,8 @@ This project analyzes a global supply chain dataset to evaluate delivery reliabi
 
 The project combines data cleaning, SQL-based exploratory analysis, time-series forecasting, and interactive dashboards to convert raw operational data into business insights.
 
+📽️ Full Project Walkthrough (Video): https://youtu.be/WkvojrfDX7k
+
 ---
 
 ## 🎯 Problem Statement
